@@ -1,2 +1,2 @@
 # git-github
-This is my first Central Repo
+This is my first Central Repository
